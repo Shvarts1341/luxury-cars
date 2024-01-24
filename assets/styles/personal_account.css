@@ -1,0 +1,44 @@
+.personal {
+    margin-top: 116px;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+label:first-child {
+    margin-top: 0;
+}
+
+input {
+    text-align: center;
+}
+
+#preferences,
+input {
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    padding: 14px 50px;
+}
+
+#preferences {
+    max-height: 120px;
+}
+
+.general_link {
+    margin-top: 50px;
+    font-size: 18px;
+}

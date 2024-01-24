@@ -1,0 +1,16 @@
+h2 {
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 120px;
+}
+
+.about {
+    margin-bottom: 300px;
+}
+
+.about p {
+    font-weight: 500;
+    font-size: 24px;
+    max-width: 1000px;
+    margin: 0 auto;
+}

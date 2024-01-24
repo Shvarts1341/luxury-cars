@@ -1,0 +1,95 @@
+header {
+    background-image: url(../images/back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: 1920px;
+    padding-bottom: 300px;
+}
+
+.promo {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 100px;
+}
+
+.promo h1 {
+    max-width: 800px;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 250px;
+}
+
+.promo span {
+    max-width: 590px;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.promo .general_link {
+    background-color: white;
+    color: black;
+}
+
+.promo .general_link,
+.general_link {
+    padding: 20px 50px;
+}
+
+.popular_cars,
+.choice_auto,
+.help {
+    padding-top: 160px;
+}
+
+.help {
+    padding-bottom: 300px;
+}
+
+.cars__wrapper {
+    padding-bottom: 150px;
+}
+
+.popular_cars .link {
+    display: flex;
+    justify-content: center;
+}
+
+#year-select,
+#car-select,
+.search-field {
+    padding: 10px 80px 10px 20px;
+    font-size: 20px;
+    max-width: 300px;
+}
+
+#year-select,
+#car-select {
+    margin-left: 56px;
+}
+
+.choice_auto-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.search {
+    display: flex;
+    gap: 10px;
+}
+
+.search-image {
+    width: 46px;
+}
+
+.help-cards {
+    display: flex;
+    margin-top: 120px;
+}
+
+.help-card img {
+    max-width: 90%;
+}

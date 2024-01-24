@@ -1,0 +1,88 @@
+.partner_cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 120px;
+    grid-row-gap: 200px;
+}
+
+.partner_card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    place-self: center;
+}
+
+.partners_wrapper {
+    margin-top: 120px;
+    margin-bottom: 300px;
+}
+
+.partner_card span {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.partner_card img {
+    max-width: 50%;
+}
+
+.pegass {
+    max-width: 70%;
+}
+
+.partner_card p {
+    font-weight: 500;
+    font-size: 20px;
+    max-width: 340px;
+    text-align: center;
+}
+
+.olimp {
+    padding-bottom: 40px;
+    margin-top: 50px;
+}
+
+.m5 {
+    padding-bottom: 30px;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+label {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+input {
+    text-align: center;
+}
+
+#preferences,
+input {
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    padding: 14px 50px;
+}
+
+#preferences {
+    max-height: 120px;
+}
+
+.general_link {
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.fill-form {
+    text-align: center;
+}

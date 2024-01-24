@@ -1,0 +1,38 @@
+.not-found {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.not-found img {
+    max-width: 50%;
+}
+
+.not-found span,
+h1 {
+    font-weight: 600;
+    font-size: 200px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.not-found p,
+.not-found a {
+    font-weight: 400;
+    font-size: 54px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.not-found p:last-child {
+    margin-bottom: 200px;
+}
+
+.not-found a {
+    color: black;
+    border-bottom: 3px solid black;
+}
