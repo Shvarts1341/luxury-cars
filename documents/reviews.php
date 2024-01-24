@@ -7,9 +7,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/styles/general.css">
-    <link rel="stylesheet" href="/assets/styles/reviews.css">
-    <link rel="stylesheet" href="/assets/styles/personal_account.css">
+    <link rel="stylesheet" href="/luxury-cars/assets/styles/general.css">
+    <link rel="stylesheet" href="/luxury-cars/assets/styles/reviews.css">
+    <link rel="stylesheet" href="/luxury-cars/assets/styles/personal_account.css">
     <title>Luxury&Cars</title>
 </head>
 
@@ -17,18 +17,18 @@
     <header>
         <div class="container">
             <div class="header__wrapper">
-                <a class="logo" href="../index.html"><img src="/assets/images/logo.png" alt="logo"></a>
+                <a class="logo" href="../index.html"><img src="/luxury-cars/assets/images/logo.png" alt="logo"></a>
                 <nav>
                     <ul>
-                        <li><a href="/documents/cars.html">Автомобили</a></li>
-                        <li><a href="/documents/reviews.php">Отзывы</a></li>
-                        <li><a href="/documents/partners.html">Партнёры</a></li>
-                        <li><a href="/documents/about_the_company.html">О компании</a></li>
+                        <li><a href="/luxury-cars/documents/cars.html">Автомобили</a></li>
+                        <li><a href="/luxury-cars/documents/reviews.php">Отзывы</a></li>
+                        <li><a href="/luxury-cars/documents/partners.html">Партнёры</a></li>
+                        <li><a href="/luxury-cars/documents/about_the_company.html">О компании</a></li>
                     </ul>
                 </nav>
                 <div class="personal_account">
-                    <a href="/documents/personal_account.html"><img src="/assets/images/account.png" alt="account"></a>
-                    <a href="/documents/personal_account.html">Личный<br>кабинет</a>
+                    <a href="/luxury-cars/documents/personal_account.html"><img src="/luxury-cars/assets/images/account.png" alt="account"></a>
+                    <a href="/luxury-cars/documents/personal_account.html">Личный<br>кабинет</a>
                 </div>
             </div>
         </div>
@@ -106,10 +106,10 @@
                     <span>г. Сочи +7 (999)-333-44 55</span>
                 </div>
                 <div class="social_media">
-                    <a href="#"><img src="/assets/images/instagram.png" alt=""></a>
-                    <a href="#"><img src="/assets/images/twitter.png" alt=""></a>
-                    <a href="#"><img src="/assets/images/vk.png" alt=""></a>
-                    <a href="#"><img src="/assets/images/telegram.png" alt=""></a>
+                    <a href="#"><img src="/luxury-cars/assets/images/instagram.png" alt=""></a>
+                    <a href="#"><img src="/luxury-cars/assets/images/twitter.png" alt=""></a>
+                    <a href="#"><img src="/luxury-cars/assets/images/vk.png" alt=""></a>
+                    <a href="#"><img src="/luxury-cars/assets/images/telegram.png" alt=""></a>
                 </div>
             </div>
         </div>
